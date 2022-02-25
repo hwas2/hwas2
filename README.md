@@ -7,7 +7,7 @@ I'll work hard to fill up my space⭐
 [My Github](https://github.com/hwas2)
 
 
-![hwas2's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwas2&show_icons=true&theme=tokyonight)
+![hwas2's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwas2&show_icons=true&theme=dracula)
 
 <!--
 **hwas2/hwas2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
