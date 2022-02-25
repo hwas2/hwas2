@@ -1,7 +1,7 @@
 Hi, my name is YeonHwa🙍
 - 🌱 I’m currently learning Python & Data analysis
 - 💻⌨ I can use Python, C language, Matlab
-- 🌏 I lived in Korea
+- 🌏 I living in Korea
 
 I'll work hard to fill up my space⭐
 [My Github](https://github.com/hwas2)
