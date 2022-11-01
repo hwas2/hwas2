@@ -23,3 +23,9 @@ My name is YeonHwa🙍
 I'll work hard to fill up my space⭐
 [My Github](https://github.com/hwas2)
 Collaboration is always welcome🙌
+
+
+### 💡 Algorithm 💡
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyh98)](https://solved.ac/profile/jyh98)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=studyc0de&theme=dark)
+</div>
