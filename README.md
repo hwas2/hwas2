@@ -1,8 +1,6 @@
 <div align="center">
   
 Hi, my name is YeonHwa🙍
-  
-🌱 I’m currently learning Python & Data analysis
 
 ### ✨ Stacks ✨
 #### 💻 Languages & Frameworks 📚
